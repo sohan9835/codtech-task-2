@@ -1,0 +1,6 @@
+Product,Quantity,UnitPrice,Total
+Laptop,10,1200,12000
+Mouse,50,25,1250
+Keyboard,30,75,2250
+Monitor,20,300,6000
+Webcam,40,45,1800
